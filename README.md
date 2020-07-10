@@ -1,5 +1,5 @@
 # BLE-Arduino
-BLE: Arduino + HM-10 + Treadmill + FC-03.
+BLE: Arduino + HM-10 + Treadmill + FC-03 (or led+photoresistor).
 
 RUNNING SPEED AND CADENCE
 
